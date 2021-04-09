@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please go to https://adambasha0.github.io/react-cards-project/ for access directly the webpage of my project.
+The Webepage is doing API call to json file to retrieve some information (specifically username and email) about users and then it assigns a certain monster card to each user is 
+This Project was done using some main concepts in react like react components 
+
+https://adambasha0.github.io/React-Cards-Project/
 
 ## Available Scripts
 
