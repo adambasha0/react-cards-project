@@ -1,11 +1,11 @@
 # Description
 
-This Project was done using some main concepts in react like react components - API call - and some functions like arrow functions, map and filter functions
+This Project was done using some main concepts in react like react components 
 
 Please go to https://adambasha0.github.io/react-cards-project/ for direct access on the webpage of my project.
-The Webepage is doing API call to json file to retrieve some information (specifically username and email) about users and then it assigns a certain monster card to each user. The webpage also has a search bar which allows the user to filter/search for cards based on username.
 
-https://adambasha0.github.io/React-Cards-Project/
+The Webepage is doing API call to json file to retrieve some information (specifically username and email) about users and then it assigns a certain monster card to each user. The webpage also has a search bar which allows the user to filter/search for cards based on username.
+This Repository 
 
 ## Available Scripts
 
