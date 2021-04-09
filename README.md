@@ -1,8 +1,9 @@
 # Description
 
-Please go to https://adambasha0.github.io/react-cards-project/ for access directly the webpage of my project.
-The Webepage is doing API call to json file to retrieve some information (specifically username and email) about users and then it assigns a certain monster card to each user is 
 This Project was done using some main concepts in react like react components 
+
+Please go to https://adambasha0.github.io/react-cards-project/ for direct access on the webpage of my project.
+The Webepage is doing API call to json file to retrieve some information (specifically username and email) about users and then it assigns a certain monster card to each user. The webpage also has a search bar which allows the user to filter/search for cards based on username.
 
 https://adambasha0.github.io/React-Cards-Project/
 
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About
+"Adam Basha" is a graduate with a master degree in Science. He has passion to learn how to build and develop wonderful, responsive, and smart websites.
